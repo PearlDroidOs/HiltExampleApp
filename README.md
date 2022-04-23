@@ -17,6 +17,7 @@ Implementing dependency injection provides you with the following advantages:
 * Ease of refactoring.
 * Ease of testing.
 
+<img width="387" alt="Screen Shot 2565-04-23 at 17 07 47" src="https://user-images.githubusercontent.com/62892558/164890085-1a5a69c5-bff7-45ed-a229-f7c2edac5b0f.png">
 
 # Pre-requisites
 * Experience with Kotlin syntax.
